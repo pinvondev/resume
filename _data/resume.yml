@@ -35,13 +35,6 @@ main: #简历主要内容，
     sub: Ut enim ad minim veniam
     detail: Master Bachelor of Computer Science & Technology.
 
-- type: 资格证书
-  # name: "技能"
-  content:
-  - title: 教师资格证（幼儿园）
-  - title: 计算机一级
-  - title: 普通话二级乙等
-
 - type: experience
   name: 工作经验
   content:
@@ -49,18 +42,7 @@ main: #简历主要内容，
     sub: 才溪中心幼儿园
     duration: "2013年9月 - 2023年8月"
     summary: 工作内容(自动折叠，点击展开)
-    detail: 工作职责：
-
-负责幼儿的日常教育工作，包括保育、教育、心理辅导等。
-制定教学计划，与同事共同制定课程安排，并实施教学。
-与家长保持良好沟通，及时反馈孩子的学习情况，帮助家长了解孩子的学习进展。
-积极参与幼儿园组织的各项活动，包括家长会、亲子活动等。
-工作成果：
-
-成功培养幼儿良好的生活习惯和学习能力，提高幼儿综合素质。
-与家长建立良好的合作关系，及时反馈孩子的学习情况，得到了家长的认可和好评。
-积极参与幼儿园组织的各项活动，为幼儿园的声誉和形象做出了贡献。
-在幼儿园教师的岗位上，我积累了丰富的教育经验和专业知识，能够根据幼儿的特点和需求制定个性化的教学计划，注重培养幼儿的兴趣爱好和创造力。同时，我也注重与家长沟通合作，共同关注孩子的成长和发展。我相信这些经验和技能可以为我成为一名优秀的投标员提供有力的支持。
+    detail: 工作职责：\n负责幼儿的日常教育工作，包括保育、教育、心理辅导等。\n制定教学计划，与同事共同制定课程安排，并实施教学。\n与家长保持良好沟通，及时反馈孩子的学习情况，帮助家长了解孩子的学习进展。\n积极参与幼儿园组织的各项活动，包括家长会、亲子活动等。\n
     # open: open
     #可以设置open默认展开
   - title: Job Title
@@ -70,6 +52,13 @@ main: #简历主要内容，
     - tagname
     summary: Summary your job or work. (Collapse)
     detail: Details can be collapsed in Chrome Safari, Firefox, Opera and so on. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+- type: 资格证书
+  # name: "技能"
+  content:
+  - title: 教师资格证（幼儿园）
+  - title: 计算机一级
+  - title: 普通话二级乙等
 
 - type: projects
   name: Projects
