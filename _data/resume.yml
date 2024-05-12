@@ -37,15 +37,15 @@ main: #简历主要内容，
   - title: 教师
     sub: 才溪中心幼儿园
     duration: "2013年9月 - 2023年8月"
-    summary: 工作内容(自动折叠，点击展开)
+    summary: 工作内容(自动展开，点击折叠)
     detail:
       md: _data/demo.md
     open: open
     #可以设置open默认展开
-  - title: 业绩
+  - title: 主要业绩
     list:
-    - 2013-2014学年, 全园环境创设一等奖
-    - 2014-2015学年, 优秀班主任
+      - 1
+      - 2
     
 
 - type: 资格证书
