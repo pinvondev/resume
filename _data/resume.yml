@@ -17,6 +17,7 @@ contact: #联系方式连接等3~5行
 - text: "leisijuan002"
   icon: 'icons/weixin.svg'
 - text: "1993年9月"
+  icon: 'icons/born.svg'
   # - text: "地址"
   #   icon: "icons/location.svg"
 
@@ -58,18 +59,14 @@ others: #其他列表显示
 - type: others #ID可以为空
   name: '其他'
   content: #选择需要的格式
-  - 单行文字
-  - title: "加粗:"
-    text: "列表项二"
-  - title: "兴趣:"
+    md: _data/self.md
+  - title: "兴趣："
     items: #单行列表
-    - 睡觉
-    - 吃饭
-    - coding
-  - title: 列表
-    list:
-    - 第一项
-    - 第二项
+    - 音乐
+    - 看书
+    - 骑行
+    - 电影
+    - 美食
 #- type: 
 #  name: '其他'
 #  content: #选择需要的格式
@@ -80,10 +77,9 @@ others: #其他列表显示
 footer: #脚注多组
   print: #打印版markdown或者html
   screen:
-  - text: "简历脚注"
   #   href: '/'
-  - text: "Made with &hearts; by NewFuture"
-    href: "https://github.com/NewFuture/CV/"
+  - text: "Made by Sijuan Lei"
+    href: "759165631@qq.com"
 
 #页面额外js脚本，如xx统计
 scripts:
