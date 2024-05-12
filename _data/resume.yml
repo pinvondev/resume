@@ -10,11 +10,13 @@ photo: "assets/img/photo.jpg" #照片可空，不显示
 #联系方式
 contact: #联系方式连接等3~5行
 - text: "759165631@qq.com" #文本内容
-  href: 'mailto:youremail@example.com' #链接，无链接则空  
+  href: 'mailto:759165631@qq.com' #链接，无链接则空  
   icon: 'icons/email.svg' #图标 svg文件
 - text: "13859511914"
-  href: 'tel:1234567890'
+  href: 'tel:13859511914'
   icon: 'icons/phone.svg'
+- text: "leisijuan002"
+  icon: 'icons/weixin.svg'
   attr: 'target="_blank"' #新标签页打开
   # - text: "地址"
   #   icon: "icons/location.svg"
@@ -46,8 +48,19 @@ main: #简历主要内容，
   - title: 教师
     sub: 才溪中心幼儿园
     duration: "2013年9月 - 2023年8月"
-    summary: 职务或者工作总结(自动折叠)
-    detail: 同时包含 summary和detail在Chrome，Safari(包括IOS)，Android和新版Firefox等会自动折叠，不支持折叠的浏览器和展开后表现一致
+    summary: 工作内容(自动折叠，点击展开)
+    detail: 工作职责：
+
+负责幼儿的日常教育工作，包括保育、教育、心理辅导等。
+制定教学计划，与同事共同制定课程安排，并实施教学。
+与家长保持良好沟通，及时反馈孩子的学习情况，帮助家长了解孩子的学习进展。
+积极参与幼儿园组织的各项活动，包括家长会、亲子活动等。
+工作成果：
+
+成功培养幼儿良好的生活习惯和学习能力，提高幼儿综合素质。
+与家长建立良好的合作关系，及时反馈孩子的学习情况，得到了家长的认可和好评。
+积极参与幼儿园组织的各项活动，为幼儿园的声誉和形象做出了贡献。
+在幼儿园教师的岗位上，我积累了丰富的教育经验和专业知识，能够根据幼儿的特点和需求制定个性化的教学计划，注重培养幼儿的兴趣爱好和创造力。同时，我也注重与家长沟通合作，共同关注孩子的成长和发展。我相信这些经验和技能可以为我成为一名优秀的投标员提供有力的支持。
     # open: open
     #可以设置open默认展开
   - title: Job Title
