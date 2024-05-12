@@ -30,10 +30,6 @@ main: #简历主要内容，
     duration: "2009年9月 - 2013年6月"
     sub: 漳州
     detail: 学前教育专业
-  - title: Your University
-    duration: Aug 2007 - Jun 2011
-    sub: Ut enim ad minim veniam
-    detail: Master Bachelor of Computer Science & Technology.
 
 - type: experience
   name: 工作经验
