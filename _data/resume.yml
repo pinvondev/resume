@@ -40,16 +40,13 @@ main: #简历主要内容，
     summary: 工作内容(自动折叠，点击展开)
     detail:
       md: _data/demo.md
-    # open: open
+    open: open
     #可以设置open默认展开
-  - title: 2013~2014学年
-    summary: 全园环境创设第一名
-  - title: 2014-2015学年
-    summary: 优秀班主任，指导学生画画二等奖
-  - title: 2015-2016学年
-    summary: 优秀班主任，教玩具制作一等奖
-  - title: 2016-2017学年
-    summary: 优秀班主任，教玩具制作二等奖
+  - title: 业绩
+    list:
+    - 2013-2014学年, 全园环境创设一等奖
+    - 2014-2015学年, 优秀班主任
+    
 
 - type: 资格证书
   # name: "技能"
