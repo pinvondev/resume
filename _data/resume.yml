@@ -37,21 +37,15 @@ main: #简历主要内容，
   # name: "技能"
   content:
   - title: 教师资格证（幼儿园）
-    items: #itmems 可以小块的方式显示
-    - 汉语
-    - 语言2
-    - 语言3
   - title: 计算机一级
   - title: 普通话二级乙等
 
 - type: experience
-  name: 经验
+  name: 工作经验
   content:
-  - title: 职位
-    sub: 某某公司
-    duration: "xxxx年xx月 - yyyy年yy月"
-    tags:
-    - 标签
+  - title: 教师
+    sub: 才溪中心幼儿园
+    duration: "2013年9月 - 2023年8月"
     summary: 职务或者工作总结(自动折叠)
     detail: 同时包含 summary和detail在Chrome，Safari(包括IOS)，Android和新版Firefox等会自动折叠，不支持折叠的浏览器和展开后表现一致
     # open: open
