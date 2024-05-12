@@ -16,6 +16,7 @@ contact: #联系方式连接等3~5行
   icon: 'icons/phone.svg'
 - text: "leisijuan002"
   icon: 'icons/weixin.svg'
+- text: "1993年9月"
   # - text: "地址"
   #   icon: "icons/location.svg"
 
@@ -40,28 +41,10 @@ main: #简历主要内容，
     sub: 才溪中心幼儿园
     duration: "2013年9月 - 2023年8月"
     summary: 工作内容(自动折叠，点击展开)
-    detail: >-
-      工作职责：
-      1. 负责幼儿的日常教育工作，包括保育、教育、心理辅导等。
-      2. 制定教学计划，与同事共同制定课程安排，并实施教学。
-      3. 与家长保持良好沟通，及时反馈孩子的学习情况，帮助家长了解孩子的学习进展。
-      4. 积极参与幼儿园组织的各项活动，包括家长会、亲子活动等。
-
-      工作成果：
-      1. 成功培养幼儿良好的生活习惯和学习能力，提高幼儿综合素质。
-      2. 与家长建立良好的合作关系，及时反馈孩子的学习情况，得到了家长的认可和好评。
-      3. 积极参与幼儿园组织的各项活动，为幼儿园的声誉和形象做出了贡献。
-      
-      在幼儿园教师的岗位上，我积累了丰富的教育经验和专业知识，能够根据幼儿的特点和需求制定个性化的教学计划，注重培养幼儿的兴趣爱好和创造力。同时，我也注重与家长沟通合作，共同关注孩子的成长和发展。我相信这些经验和技能可以为我应聘这个岗位提供有力的支持。
+    detail:
+      md: _data/demo.md
     # open: open
     #可以设置open默认展开
-  - title: Job Title
-    sub: Your 2nd, Inc.  
-    duration: Apr 2013 - Mar 2016
-    tags: 
-    - tagname
-    summary: Summary your job or work. (Collapse)
-    detail: Details can be collapsed in Chrome Safari, Firefox, Opera and so on. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 - type: 资格证书
   # name: "技能"
@@ -69,20 +52,6 @@ main: #简历主要内容，
   - title: 教师资格证（幼儿园）
   - title: 计算机一级
   - title: 普通话二级乙等
-
-- type: projects
-  name: Projects
-  content:
-  - title: 项目名称
-    duration: xxxx年xx月 - yyyy年yy月
-    detail: 项目和工作介绍，项目总结.
-    sub: 维护者
-  - title: Project Name
-    summary: Projects' introduction or summary
-    detail:
-      md: _data/demo.md
-    sub: Creator and maintainer.
-   #可继续添加更多内容
 
 #others 其他简略内容(列表)
 others: #其他列表显示
