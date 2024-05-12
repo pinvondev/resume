@@ -53,7 +53,9 @@ main: #简历主要内容，
   content:
   - title: 教师资格证（幼儿园）
   - title: 计算机一级
+    summary: 熟练掌握Microsoft Office办公软件
   - title: 普通话二级乙等
+    summary: 具备良好的听说读写能力
 
 #others 其他简略内容(列表)
 others: #其他列表显示
