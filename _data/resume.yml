@@ -30,6 +30,10 @@ main: #简历主要内容，
     duration: "2009年9月 - 2013年6月"
     sub: 漳州
     detail: 学前教育专业
+  - title: 福建教育学院
+    duration: "2016年1月 - 2018年12月"
+    sub: 专升本
+    detail: 学前教育专业
 
 - type: experience
   name: 工作经验
